@@ -1,8 +1,8 @@
 # dsnoob
 This is where I start my journey
 
--Point 1
--Point 2
+- Point 1
+- Point 2
 ___
 ```
 
